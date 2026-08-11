@@ -1,3 +1,3 @@
 # new project 
-this project create lacally
-cretaed by nikhil
+this project create locally in device
+cretaed by nikhil.
